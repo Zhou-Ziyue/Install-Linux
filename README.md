@@ -11,7 +11,7 @@ things that I need
 - https://github.com/Zhou-Ziyue/Wallpapers **Wallpapers**
 - https://www.gnome-look.org/browse?cat=135&ord=rating **GTK Themes**
 - https://liquorix.net/ **Liquorix Kernel**
-- **Arch IME** move Enironment to `/etc/` using `sudo cp -r /home/ziyue/下载/environment /etc/`
+- **Arch IME** move Environment to `/etc/` using `sudo cp -r /home/ziyue/下载/environment /etc/`
 ##### Parameter 
 with `sudo nano /boot/limine.conf` \
 or `sudo nano /etc/default/grub` \
