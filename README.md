@@ -16,3 +16,5 @@ things that I need
 with `sudo nano /boot/limine.conf` \
 or `sudo nano /etc/default/grub` \
 CMDLINE: `nvme_core.default_ps_max_latency_us=0`
+#### Cosmic Theme
+Upload cosmic theme then set *gaps around the tiled window*: **6**
