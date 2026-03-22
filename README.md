@@ -1,3 +1,3 @@
-# School projects
-#### MY school projects
+# Post Install Linux
+#### MY favourite linux configurations
 things that I need
