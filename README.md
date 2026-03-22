@@ -1,7 +1,7 @@
 # Post Install Linux
 ### MY favourite linux configurations
 things that I need
-- https://www.opendesktop.org/p/2352993 **COSMIC Icons**
+- [**COSMIC Icons**](https://www.opendesktop.org/p/2352993)
 - https://www.gnome-look.org/browse?cat=132&ord=rating **Other Icons**
 - https://codeberg.org/waleslau/fcitx5-themes **Fcitx5 Themes**
 - https://www.pling.com/p/2300466 **Cursor Theme**
