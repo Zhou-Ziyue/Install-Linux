@@ -11,7 +11,8 @@ things that I need
 - [**Wallpapers**](https://github.com/Zhou-Ziyue/Wallpapers)
 - [**GTK Themes**](https://www.gnome-look.org/browse?cat=135&ord=rating)
 - [**Liquorix Kernel**](https://liquorix.net/)
-- **Arch IME** move Environment to `/etc/` using `sudo cp -r /home/ziyue/下载/environment /etc/`
+- [**Liquorix Kernel**](https://github.com/Keyitdev/sddm-astronaut-theme) move `sddm.conf` to `/etc/` using `sudo cp -r /home/ziyue/下载/sddm.conf /etc/`
+- **Arch IME** move `Environment` to `/etc/` using `sudo cp -r /home/ziyue/下载/environment /etc/`
 ##### Parameter 
 with `sudo nano /boot/limine.conf` and `sudo nano /etc/default/limine` \
 or `sudo nano /etc/default/grub` \
