@@ -4,7 +4,7 @@ things that I need
 - [**COSMIC Icons**](https://www.opendesktop.org/p/2352993) use `sudo cp -r /home/ziyue/下载` or `setup.sh`
 - [**Other Icons**](https://www.gnome-look.org/browse?cat=132&ord=rating)
 - [**Fcitx5 Themes**](https://github.com/thep0y/fcitx5-themes-candlelight)
-- [**Cursor Theme**](https://www.pling.com/p/2300466)
+- [**Cursor Theme**](https://www.opendesktop.org/p/2353885/)
 - [**Plymouth Themes**](https://www.gnome-look.org/p/2106821)
 - [**Fonts**](https://github.com/witt-bit/applePingFangFonts)
 - [**Plank Reloaded**](https://github.com/zquestz/plank-reloaded)
