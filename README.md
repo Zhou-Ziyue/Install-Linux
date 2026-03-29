@@ -13,11 +13,11 @@ things that I need
 - [**Liquorix Kernel**](https://liquorix.net/)
 - [**SDDM Theme**](https://github.com/Keyitdev/sddm-astronaut-theme) move `sddm.conf` to `/etc/` using `sudo cp -r /home/ziyue/下载/sddm.conf /etc/`
 - **Arch IME** move `Environment` to `/etc/` using `sudo cp -r /home/ziyue/下载/environment /etc/`
-- niri move `layout.kdl` to `./config/niri/cfg/` using `sudo cp -r /home/ziyue/下载/layout.kdl ./config/niri/cfg/`
+- **niri** move `layout.kdl` to `./config/niri/cfg/` using `sudo cp -r /home/ziyue/下载/layout.kdl ./config/niri/cfg/`
 ##### Parameter 
 with `sudo nano /boot/limine.conf` and `sudo nano /etc/default/limine` \
 or `sudo nano /etc/default/grub` \
-[Other **Boot Managers**](https://wiki.cachyos.org/configuration/boot_manager_configuration/) \
+[Other **Boot Managers**...](https://wiki.cachyos.org/configuration/boot_manager_configuration/) \
 CMDLINE: `nvme_core.default_ps_max_latency_us=0`
 #### Cosmic Theme
 Upload cosmic theme then set *gaps around the tiled window*: **6**
