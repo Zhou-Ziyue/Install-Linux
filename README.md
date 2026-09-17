@@ -23,10 +23,11 @@ CMDLINE: `nvme_core.default_ps_max_latency_us=0`
 #### Cosmic Theme
 Upload cosmic theme then set *gaps around the tiled window*: **6**
 #### Browser Extensions
-- [**AdGuard**](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
+- [**Ublock Origin lite**](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=it)
 - [**WPS PDF**](https://chromewebstore.google.com/detail/wps-pdf-read-edit-fill-co/kdpelmjpfafjppnhbloffcjpeomlnpah)
 - [**Allow Copy Plus**](https://chromewebstore.google.com/detail/allow-copy-plus/glhencmaebebkdlejhopaeghdhkjbpje)
 - [**Bonjourr**](https://chromewebstore.google.com/detail/bonjourr-%C2%B7-minimalist-sta/dlnejlppicbjfcfcedcflplfjajinajd)
+- [**MD3 New Tab**](https://chromewebstore.google.com/detail/md3-material-design-3-new/limheioemdhhaccglmbckadpkmnnkoab?hl=it)
 - [**Ruffle**](https://chromewebstore.google.com/detail/ruffle-flash-emulator/donbcfbmhbcapadipfkeojnmajbakjdc)
 - [**Violentmonkey**](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 - [**Malus**](https://chromewebstore.google.com/detail/malus-vpn-the-only-offici/bdlcnpceagnkjnjlbbbcepohejbheilk)
