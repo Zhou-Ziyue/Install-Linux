@@ -14,11 +14,13 @@ things that I need
 - [**Material GTK Theme**](https://www.gnome-look.org/p/1706139), choose *Dark Deep Ocean Border macOS Buttons* and use `gsettings` to apply the theme
 - [**Liquorix Kernel**](https://liquorix.net/)
 - [**SDDM Theme**](https://github.com/Keyitdev/sddm-astronaut-theme) move `sddm.conf` to `/etc/` using `sudo cp -r /home/ziyue/下载/sddm.conf /etc/`
+#### Should:
 - **Arch IME** move `Environment` to `/etc/` using `sudo cp -r /home/ziyue/下载/environment /etc/`
 - **niri** move `layout.kdl` to `./config/niri/cfg/` using `sudo cp -r /home/ziyue/下载/layout.kdl ./config/niri/cfg/`
-##### Parameter 
-with `sudo nano /boot/limine.conf` and `sudo nano /etc/default/limine` \
-or `sudo nano /etc/default/grub` \
+- **Mint Sound** move `sounds` to `/usr/share/mint-artworks/` using `sudo cp -r /home/ziyue/下载/sounds /usr/share/mint-artworks/`
+- **Parameter** 
+  - with `sudo nano /boot/limine.conf` and `sudo nano /etc/default/limine` \
+  - or `sudo nano /etc/default/grub` \
 [Other **Boot Managers**...](https://wiki.cachyos.org/configuration/boot_manager_configuration/) \
 CMDLINE: `nvme_core.default_ps_max_latency_us=0`
 #### Cosmic Theme
